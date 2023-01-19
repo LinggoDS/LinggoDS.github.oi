@@ -1,0 +1,36 @@
+.nav-link {
+    border-radius: 12px;
+}
+.nav-link:hover {
+    background-color: orange;
+    color :#145b7e !important;
+}
+.nav-item {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.text-biru {
+    color : #145b7e;
+}
+.text-orange {
+    color : #f58220;
+}
+.body-news {
+    background: #e3e3e3 url('../assets/img/home-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.body-news header.masthead:before, .body-news header.masthead {
+    background-color: transparent;
+}
+.container-white {
+    background-color: white;
+}
+.body-news footer {
+    padding: 0!important;
+}
+.body-news footer .container{
+    background-color: white;
+}
+.body-home header.masthead:before, .body-home header.masthead {
+    background-color: transparent;
+}
